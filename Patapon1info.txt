@@ -1,0 +1,52 @@
+
+24269 title
+
+60989 pre sig
+
+53873 polis
+
+
+107028 	- Patapons Come Home 
+108759 	- Hunting on Patapata Plain  	- multi
+110570 	- Escape from Exile
+112139 	- Zigotons Strike Back
+114085 	- The battle for Zigoton Fort at Dodon Basin
+115836 	- Gong the Hawkeye
+117923 	- Ancestral Guardian    			- multi 
+119987 	- Secret Juju at Lostdon			- multi
+69504  	- Desert Crossing
+132138 	- Creatures of the Sand 			- multi
+65762  	- Zigotons Attack					- multi
+144174 	- Giant Beast of the Deplorable Desert - multi
+71192  	- Battle for Heave Ho Oasis
+72901  	- Gong Returns
+133562 	- Sandy Paradise
+146099  - Guardian of Knell
+65762  	- Zigotons Attack again dupe
+67857 	- Convoy Escort
+75185	- Despair
+76809	- Ray of Hope
+135009	- A World of Ooze					-multi
+79148	- Door of Promise
+81195	- Battle! Mt.Bachikoi Fort
+147516 	- Lord of the Mountains				-multi
+91375	- Legendary Night Sky
+101521	- Meden Kidnapped
+93160	- Gong Vows to Fight
+150393	- Volcano Guardian					-multi
+94672	- Crossing Zigoton Territory
+96284	- Facing Gate Ghoul Baban
+97734	- Zigoton Queen
+154954	- Kharma’s Pet						-multi
+99312	- Final Showdown
+156875	- Servant of Darkness
+
+159993	- Final cutscene
+
+PPSSPPWindows64.exe+C29B30 not levels but number of loads or the like (could work but easy to break)
+
+PPSSPPWindows64.exe+C85590 is playing video
+
+
+
+
