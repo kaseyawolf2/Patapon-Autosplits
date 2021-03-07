@@ -30,9 +30,9 @@ start // starts after signing but not instantly needs retimed +~1 second
     {
         if(current.LevelID == 60989)
         {
-            vars.StartSplit = 1;   
+            vars.StartSplit++;   
         }
-        if(current.LevelID != 60989 && vars.StartSplit == 1)
+        if(current.LevelID != 60989 && vars.StartSplit == 3 )
         {
             vars.StartSplit = 0;
             return true;
